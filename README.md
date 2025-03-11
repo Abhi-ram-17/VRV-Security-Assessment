@@ -1,4 +1,4 @@
-# VRV-Security-Assessment
+# Log File Analysis System
 
 # Project Development
 The Log Analysis Script was developed to streamline the analysis of server log files, providing actionable insights into user behavior, endpoint activity, and potential security threats. The project focuses on automating the extraction, analysis, and reporting of key metrics, ensuring scalability and efficiency.
