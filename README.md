@@ -21,8 +21,8 @@ Tested the script with various log files, including small and large datasets, to
 Optimized parsing and analysis logic for scalability, ensuring minimal processing delays even with large logs.
 
 # Tools and Technologies
-Programming Language: Python.
-Libraries Used:
+Programming Language: Python, Regex.
+Libraries Used:Numpy, Pandas.
 collections.Counter for efficient data aggregation.
 csv for structured data output.
 Colab.
